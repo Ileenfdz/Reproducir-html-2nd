@@ -1,0 +1,47 @@
+h1{
+    padding: 0px 0px 20px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    border-collapse: collapse;
+    width: 500px;
+    height: 200px;
+}
+
+.colores{
+    font-size: x-large;
+    background-color: green;
+    padding-bottom: 40px;
+}
+
+.black{
+    background-color: black;
+}
+
+.olive{
+    background-color: olive;
+}
+
+.red{
+    background-color: red;
+}
+
+h2{
+    font-size: xx-large;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.div-colores-letra{
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
