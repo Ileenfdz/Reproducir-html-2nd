@@ -1,0 +1,26 @@
+{
+  "name": "reproducir-html-2nd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ileenfdz/Reproducir-html-2nd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ileenfdz/Reproducir-html-2nd/issues"
+  },
+  "homepage": "https://github.com/Ileenfdz/Reproducir-html-2nd#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
